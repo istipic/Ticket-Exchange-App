@@ -68,7 +68,7 @@ Napomena: Aplikacija je u trenutnoj inačici namijenjena isključivo za stolna r
 | Jurica Laljak | Voditelj tima, razvoj poslužiteljske strane | https://github.com/Jurica-Laljak | jurica.laljak@fer.unizg.hr |
 | Andrija Maček | Razvoj poslužiteljske strane, puštanje u pogon | https://github.com/Andrija44 | andrija.macek@fer.unizg.hr |
 | Filip Pogač | Razvoj klijentske strane | https://github.com/Filip-Pogac | filip.pogac@fer.unizg.hr |
-| Ivan Stipić | Razvoj klijentske strane | https://github.com/Ivan-Stipic | ivan.stipic@fer.unizg.hr |
+| Ivan Stipić | Razvoj klijentske strane,Razvoj poslužiteljske strane, puštanje u pogon | https://github.com/istipic |
 
 
 # Licenca
